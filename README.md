@@ -1,2 +1,2 @@
-# my-cas-sevrer
+# sample-cas-sevrer
 customized cas server
